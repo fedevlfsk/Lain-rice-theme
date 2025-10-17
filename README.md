@@ -1,2 +1,3 @@
 # Lain-rice-theme
-Tema inspirado en la serie Serial Experiments Lain
+Tema que hice en Linux Debian inspirado en la serie "Serial Experiments Lain"
+![Lain theme](./Lain%20theme.png)
